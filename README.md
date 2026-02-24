@@ -23,19 +23,19 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center"> Hey visitor! </h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left"> About Me</h3>
 
 ###
 
-<p align="left">I'm ANIRUDH from Hyderabad<br><br>- 🔭 I’m a student at KLH <br>- 📚 I'm currently pursuing B.Tech II year in CSE <br>- ⚡ In my free time I Game and Code</p>
+<p align="left">I'm ANIRUDH from Hyderabad<br><br>-  I’m a student at KLH <br>-  I'm currently pursuing B.Tech II year in CSE <br>-  In my free time I Game and Code</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left"> Languages and tools</h3>
 
 ###
 
