@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm ANIRUDH from Hyderabad<br><br>- 🔭 I’m a student at KLH <br>- 📚 I'm currently pursuing B.Tech II year in CSE <br>- ⚡ In my free time I Game and Code</p>
 
 ###
 
