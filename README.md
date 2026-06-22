@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm ANIRUDH from Hyderabad<br><br>-  I’m a student at KLH <br>-  I'm currently pursuing B.Tech II year in CSE <br>-  In my free time I Game and Code</p>
+<p align="left">I'm ANIRUDH from Hyderabad<br><br>-  I’m a student at KLH <br>-  I'm currently pursuing B.Tech III year in CSE <br>-  In my free time I Game and Code</p>
 
 ###
 
